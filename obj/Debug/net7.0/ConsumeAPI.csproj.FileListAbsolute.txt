@@ -1,0 +1,15 @@
+C:\Coding\ConsumeAPI\ConsumeAPI\bin\Debug\net7.0\ConsumeAPI.exe
+C:\Coding\ConsumeAPI\ConsumeAPI\bin\Debug\net7.0\ConsumeAPI.deps.json
+C:\Coding\ConsumeAPI\ConsumeAPI\bin\Debug\net7.0\ConsumeAPI.runtimeconfig.json
+C:\Coding\ConsumeAPI\ConsumeAPI\bin\Debug\net7.0\ConsumeAPI.dll
+C:\Coding\ConsumeAPI\ConsumeAPI\bin\Debug\net7.0\ConsumeAPI.pdb
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ConsumeAPI.csproj.AssemblyReference.cache
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ConsumeAPI.AssemblyInfoInputs.cache
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ConsumeAPI.AssemblyInfo.cs
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ConsumeAPI.dll
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\refint\ConsumeAPI.dll
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ConsumeAPI.pdb
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ConsumeAPI.genruntimeconfig.cache
+C:\Coding\ConsumeAPI\ConsumeAPI\obj\Debug\net7.0\ref\ConsumeAPI.dll
